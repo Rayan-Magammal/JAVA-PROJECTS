@@ -1,0 +1,2 @@
+Customer Name  Customer Type  Phone Number   Booking Day              Movie          Number Of Ticket         Time      Number of seats     Payment per Ticket  Total Payment  
+Salem          Student        05903778724    Sunday                   Memory         1                        7:00pm         25             12.75               12.75               

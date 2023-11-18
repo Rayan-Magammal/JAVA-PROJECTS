@@ -1,0 +1,2 @@
+AcoountNO      Owner Name     Date           Address                  Arrears   PMR       CMR       Total Unit     Current Charge Total Bill     
+222            Ali            5/5/2021       Penang                   36.00     10000.00  10200.00  200.00         43.60          79.60          
